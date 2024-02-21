@@ -11,4 +11,4 @@
 
 ## Preview
 
-<img src="https://user-images.githubusercontent.com/90236635/178144287-2d0c35f4-0b40-4b2c-bdfe-d874777eb87b.png" width="75%"
+<img src="https://github.com/Harshit123gupta/Weather/assets/160573830/1de06fcc-1eb4-404e-9a06-acb4db85bf7c"width="75%"
