@@ -11,4 +11,4 @@
 
 ## Preview
 
-<img src="https://github.com/Harshit123gupta/Weather/assets/160573830/1de06fcc-1eb4-404e-9a06-acb4db85bf7c"width="75%"
+<![kanpur-meteo-average-weather-weekly](https://github.com/Harshit123gupta/Weather/assets/160573830/1ece7e2f-a1fa-4ef0-9a12-a91ffcb38081
