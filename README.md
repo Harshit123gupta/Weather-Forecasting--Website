@@ -1,5 +1,4 @@
-![clouds-3488632](https://github.com/Harshit123gupta/Weather/assets/160573830/8e46511c-3834-4e47-bec2-97cf146a76d4
-![Black Minimal Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/90236635/232291203-4d6bed99-30e5-4837-96b6-98bbbef053d3.png)
+![pexels-tahir-shaw-186980](https://github.com/Harshit123gupta/Weather/assets/160573830/b727cb2b-18da-41a4-893c-e438927460c3)
 
 # simple-weather-website
 
