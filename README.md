@@ -3,6 +3,8 @@
 # Weather forecasting website
 
 ## About
+ -This Website is created by passionate Computer Science Engineer ---->Mr.Harshit Gupta
+ -This Website is created only for measuring weather Conditions
  - This is a simple weather website.
  -  Pure HTML, CSS, JavaScript used.
  
@@ -10,4 +12,4 @@
 [Weather website](https://simple-weather-website.netlify.app/)
 
 ## Preview
-![20240221_133550_0000](https://github.com/Harshit123gupta/Weather/assets/160573830/4572339e-6507-4a78-b6f6-aac28d20549c)
+![Screenshot_20240221_140139_Chrome](https://github.com/Harshit123gupta/Weather/assets/160573830/35e1b1d0-6589-48a9-a92a-6b95848273ff)
