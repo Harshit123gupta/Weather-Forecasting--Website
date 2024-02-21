@@ -1,6 +1,6 @@
 ![pexels-tahir-shaw-186980](https://github.com/Harshit123gupta/Weather/assets/160573830/b727cb2b-18da-41a4-893c-e438927460c3)
 
-# simple-weather-website
+# Weather forecasting website
 
 ## About
  - This is a simple weather website.
