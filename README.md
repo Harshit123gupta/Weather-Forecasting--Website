@@ -10,4 +10,4 @@
 [Weather website](https://simple-weather-website.netlify.app/)
 
 ## Preview
-![1101415-500-temperature-c-en](https://github.com/Harshit123gupta/Weather/assets/160573830/96ebc04e-6339-4f5c-8572-82a6c134007f
+![20240221_133550_0000](https://github.com/Harshit123gupta/Weather/assets/160573830/4572339e-6507-4a78-b6f6-aac28d20549c)
